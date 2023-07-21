@@ -1,14 +1,12 @@
 # cluster-distance
 
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
+Metrics:
 
-[Variation of Information](https://en.wikipedia.org/wiki/Variation_of_information).
+* [Variation of Information](https://en.wikipedia.org/wiki/Variation_of_information).
+* [Rand Index](https://en.wikipedia.org/wiki/Rand_index)
 
-https://en.wikipedia.org/wiki/Rand_index
+Following the discussion on the Stack Exchange:
 
-Following the discussion in:
-
-https://stats.stackexchange.com/questions/24961/comparing-clusterings-rand-index-vs-variation-of-information
-
-https://stats.stackexchange.com/questions/95782/what-are-the-most-common-metrics-for-comparing-two-clustering-algorithms-especi
+* [Comparing clusterings: Rand Index vs Variation of Information](https://stats.stackexchange.com/questions/24961/comparing-clusterings-rand-index-vs-variation-of-information)
+* [What are the most common metrics for comparing two clustering algorithms (especially density based clustering)](https://stats.stackexchange.com/questions/95782/what-are-the-most-common-metrics-for-comparing-two-clustering-algorithms-especi)
 
